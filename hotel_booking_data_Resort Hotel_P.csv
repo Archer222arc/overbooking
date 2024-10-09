@@ -1,0 +1,3 @@
+Hotel,Is_Canceled,Lead_Time,Arrival_Year,Arrival_Month,Arrival_Week_Number,Arrival_Day,Weekend_Nights,Week_Nights,Reserved_Room_Type,Assigned_Room_Type,Reservation_Status,Reservation_Status_Date
+Resort Hotel,1,0,2016,February,8,15,0,0,P,P,Canceled,15/02/2016
+Resort Hotel,1,0,2016,November,48,21,0,0,P,P,Canceled,21/11/2016

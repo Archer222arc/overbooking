@@ -1,0 +1,4 @@
+Hotel,Is_Canceled,Lead_Time,Arrival_Year,Arrival_Month,Arrival_Week_Number,Arrival_Day,Weekend_Nights,Week_Nights,Reserved_Room_Type,Assigned_Room_Type,Reservation_Status,Reservation_Status_Date
+Resort Hotel,0,25,2015,July,31,31,0,2,B,B,Check-Out,02/08/2015
+Resort Hotel,0,0,2017,April,17,28,0,1,B,B,Check-Out,29/04/2017
+Resort Hotel,0,0,2017,May,18,3,0,1,B,B,Check-Out,04/05/2017
